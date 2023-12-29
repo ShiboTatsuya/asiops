@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202205150321
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
-
 '''
 训练Lightgbm分类器，并采用最后lgb定轮次训练集成的方法。
 '''

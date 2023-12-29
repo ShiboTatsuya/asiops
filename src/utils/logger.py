@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202110090039
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
-
 '''
 logging模块封装。
 需求：

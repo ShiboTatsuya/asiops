@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202203132027
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
-
 '''
 基于BERT-like的分类模型。
 '''

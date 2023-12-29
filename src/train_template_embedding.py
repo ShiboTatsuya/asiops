@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202203282121
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
-
 '''
 训练基于Template ID信息CBOW和Skip-Gram的词向量模型。
 '''

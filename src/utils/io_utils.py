@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202110060546
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
-
 '''
 模型训练数据管道相关API。
 '''

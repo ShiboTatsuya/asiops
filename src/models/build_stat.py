@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202203071554
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
-
 '''
 本模块(build_stat.py)构造统计特征工程工具。
 '''

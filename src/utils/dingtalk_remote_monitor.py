@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202009082036
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
 
 '''
 利用钉钉（DingTalk）的API构建的训练监控机器人。

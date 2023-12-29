@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202202260047
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
 
 '''
 针对训练数据与测试数据，构建训练样本。

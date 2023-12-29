@@ -1,5 +1,5 @@
 FROM nvidia/cuda:11.2.0-cudnn8-runtime-ubuntu18.04
-MAINTAINER MichaelYin<zhuoyin94@163.com>
+MAINTAINER yelingchen<372880952@qq.com>
 
 # 设置环境变量与工作目录s
 ENV PATH /opt/conda/bin:$PATH

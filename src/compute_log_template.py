@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202203270335
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
 
 '''
 抽取日志模板信息。

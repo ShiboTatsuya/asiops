@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202203142001
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
-
 '''
 模型构建的辅助方法集合。
 '''

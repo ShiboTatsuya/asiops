@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Created on 202111162245
-# Author:    zhuoyin94 <zhuoyin94@163.com>
-# Github:    https://github.com/MichaelYin1994
-
 '''
 构造Skip-gram与CBoW的Word Embedding模型。
 '''
